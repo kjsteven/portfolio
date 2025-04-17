@@ -12,6 +12,7 @@
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">HTML</li>
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">CSS</li>
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">JavaScript</li>
+          <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">Laravel</li>
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">Vue.js</li>
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">Tailwind CSS</li>
           <li class="bg-dark-card px-4 py-2 rounded-md text-dark-text-secondary border border-dark-border">Git</li>

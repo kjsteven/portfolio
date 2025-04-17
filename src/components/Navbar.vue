@@ -1,7 +1,7 @@
 <template>
   <nav class="fixed top-0 left-0 right-0 bg-dark-card shadow-md h-16 z-50 border-b border-dark-border">
     <div class="container mx-auto px-4 h-full flex justify-between items-center">
-      <router-link to="/" class="text-xl font-semibold text-dark-text hover:text-dark-accent transition-colors">MyName</router-link>
+      <router-link to="/" class="text-xl font-semibold text-dark-text hover:text-dark-accent transition-colors">Clix</router-link>
       <div class="space-x-6">
         <router-link to="/" class="text-dark-text-secondary hover:text-dark-accent hover:underline underline-offset-4 decoration-dark-accent transition-colors">Home</router-link>
         <router-link to="/about" class="text-dark-text-secondary hover:text-dark-accent hover:underline underline-offset-4 decoration-dark-accent transition-colors">About</router-link>
