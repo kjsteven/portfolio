@@ -1,0 +1,1 @@
+<template><div class='p-8'><h1 class='text-2xl font-semibold text-gray-900'>Projects</h1><ul class='mt-4 space-y-2'><li class='p-4 border rounded-md'>Project 1 - Description</li><li class='p-4 border rounded-md'>Project 2 - Description</li></ul></div></template>

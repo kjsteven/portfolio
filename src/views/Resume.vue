@@ -1,0 +1,1 @@
+<template><div class='p-8'><h1 class='text-2xl font-semibold text-gray-900'>Resume</h1><a href='#' class='mt-4 inline-block px-4 py-2 bg-black text-white rounded'>Download Resume</a></div></template>

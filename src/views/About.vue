@@ -1,0 +1,1 @@
+<template><div class='p-8'><h1 class='text-2xl font-semibold text-gray-900'>About Me</h1><p class='mt-4 text-gray-700'>This is a short bio with some dummy content.</p></div></template>
