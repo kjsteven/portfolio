@@ -1,13 +1,7 @@
 <template>
   <div class="container mx-auto px-4 py-16 text-center animate-fadeIn">
     <h2 class="text-4xl font-bold mb-6 text-dark-text animate-slideInUp">Resume</h2>
-    <p class="mb-8 text-dark-text-secondary max-w-xl mx-auto animate-slideInUp" style="animation-delay: 0.2s;">Interested in learning more about my professional experience? Download my resume for a detailed overview or view the preview below.</p>
-
-    <!-- Resume Preview Image -->
-    <div class="mb-8 animate-slideInUp" style="animation-delay: 0.3s;">
-      <img src="/resume-preview.png" alt="Resume Preview" class="max-w-sm md:max-w-md lg:max-w-lg mx-auto border border-dark-border rounded-md shadow-lg">
-      <!-- Adjust max-w-* classes as needed for desired preview size -->
-    </div>
+    <p class="mb-8 text-dark-text-secondary max-w-xl mx-auto animate-slideInUp" style="animation-delay: 0.2s;">Interested in learning more about my professional experience? Download my resume for a detailed overview.</p>
 
     <!-- Download Button -->
     <div class="animate-slideInUp" style="animation-delay: 0.4s;">
